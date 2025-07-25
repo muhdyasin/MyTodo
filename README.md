@@ -17,15 +17,15 @@ MyTodo is a minimal ToDo web application built using **Python Flask** and **SQLi
 
 ## 📂 Project Structure
 
-├── instance
-| ├── todo.db # SQLite database (auto-created)
-├── static # You can add your CSS and JavaScript files in this folder(Not used in this project)
-├── templates/
-│ ├── base.html # Base template with navbar(used to demonstrate template inheritance)
-│ ├── index.html # Home page (add/view todos)
-│ ├── update.html # Update page
-├── app.py # Main Flask application
-├── requirements.txt
+    ├── instance
+    | ├── todo.db # SQLite database (auto-created)
+    ├── static # You can add your CSS and JavaScript files in this folder(Not used in this project)
+    ├── templates/
+    │ ├── base.html # Base template with navbar(used to demonstrate template inheritance)
+    │ ├── index.html # Home page (add/view todos)
+    │ ├── update.html # Update page
+    ├── app.py # Main Flask application
+    ├── requirements.txt
 
 Follow these steps to run the project locally:
 
