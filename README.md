@@ -62,9 +62,9 @@ Visit http://127.0.0.1:5000/ to use the app.
 
 Home (/): Add new ToDos and see all existing tasks.
 
-Update (/update/<sno>): Edit a ToDo by its serial number.
+Update (/update/sno): Edit a ToDo by its serial number.
 
-Delete (/delete/<sno>): Remove a ToDo by its serial number.
+Delete (/delete/sno): Remove a ToDo by its serial number.
 
 ## 📜 License
 
