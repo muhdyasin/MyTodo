@@ -2,7 +2,7 @@
 
 MyTodo is a minimal ToDo web application built using **Python Flask** and **SQLite**. It allows you to add, view, update, and delete tasks easily through a clean Bootstrap interface.
 
-## 📋 Features
+# 📋 Features
 
     ✅ Add new tasks with title and description  
     ✅ View a list of all your ToDos  
@@ -10,13 +10,13 @@ MyTodo is a minimal ToDo web application built using **Python Flask** and **SQLi
     ✅ Delete tasks when completed  
     ✅ Simple, responsive UI using Bootstrap 5
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
     - **Backend:** Python, Flask, Flask-SQLAlchemy  
     - **Frontend:** HTML, Bootstrap 5, Jinja2 templates  
     - **Database:** SQLite
 
-## 📂 Project Structure
+# 📂 Project Structure
 
     ├── instance
     | ├── todo.db # SQLite database (auto-created)
@@ -46,11 +46,13 @@ Follow these steps to run the project locally:
 
 3. **Install the dependencies**
 
-   ``` pip install -r requirements.txt
+   ```
+    pip install -r requirements.txt
 
 4. **Run the Flask app**
    
-    ``` python app.py
+   ```
+    python app.py
 
 5. **Open in your browser**
 
