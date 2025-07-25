@@ -38,7 +38,7 @@ Follow these steps to run the project locally:
 
 2. **Create a virtual environment and activate it**
    
-    python -m venv venv
+   ``` python -m venv venv
     # On Windows
     venv\Scripts\activate
     # On macOS/Linux
@@ -46,11 +46,11 @@ Follow these steps to run the project locally:
 
 3. **Install the dependencies**
 
-    pip install -r requirements.txt
+   ``` pip install -r requirements.txt
 
 4. **Run the Flask app**
    
-    python app.py
+    ``` python app.py
 
 5. **Open in your browser**
 
